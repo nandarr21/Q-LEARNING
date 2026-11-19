@@ -1,0 +1,8 @@
+,Rata-rata reward/episode,Service level (%),Hari stok habis (%),Hari stok ideal (%),Hari penumpukan (%),Penjualan hilang (%)
+Q-Learning final (α=0.1),389.3,99.6,0.4,63.4,4.8,0.1
+Q-Learning baseline (α=0.8),352.7,99.7,0.3,54.4,30.8,0.1
+Acuan exhaustive (terbaik),395.5,99.7,0.3,69.9,8.9,0.1
+Acak,164.7,64.8,35.2,22.9,12.7,26.0
+Selalu Pesan Sedikit,135.5,59.4,40.6,16.5,7.4,22.6
+Selalu Pesan Banyak,305.1,99.8,0.2,49.0,75.1,0.0
+Tidak Pernah Pesan,-128.9,4.3,95.7,1.4,0.3,95.1

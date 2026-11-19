@@ -1,0 +1,16 @@
+Konfigurasi,seed,Kebijakan (state 0-8),Reward evaluasi
+"α = 0.8 (default, tinggi)",0,BBBSSB--S,394.4
+"α = 0.8 (default, tinggi)",1,BBB-SB--B,389.8
+"α = 0.8 (default, tinggi)",2,SBBBSB-BS,357.5
+"α = 0.8 (default, tinggi)",3,BBBSBS--S,351.5
+"α = 0.8 (default, tinggi)",4,BBB-SB--S,390.0
+α = 0.01 (ekstrem rendah),0,SBB-SS--B,347.8
+α = 0.01 (ekstrem rendah),1,BBBSSB---,392.2
+α = 0.01 (ekstrem rendah),2,BBBSSB---,392.2
+α = 0.01 (ekstrem rendah),3,BBB-SS-B-,360.4
+α = 0.01 (ekstrem rendah),4,BBB-SS--S,361.5
+α = 0.1 (pembanding),0,SBB-SB-S-,375.5
+α = 0.1 (pembanding),1,SBBSBB--B,372.4
+α = 0.1 (pembanding),2,BBB-SB--B,389.8
+α = 0.1 (pembanding),3,BBB-SBS-S,386.3
+α = 0.1 (pembanding),4,BBBSSB-BS,389.3

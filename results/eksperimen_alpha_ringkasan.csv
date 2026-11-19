@@ -1,0 +1,4 @@
+Konfigurasi,MA reward ep-200,MA reward ep-500,MA reward akhir,Std reward 500 ep terakhir,Reward evaluasi greedy (rata2),Reward evaluasi greedy (std antar seed),Rata2 max Q akhir,Jumlah kebijakan unik (dari 5 seed)
+"α = 0.8 (default, tinggi)",240.58,243.34,336.64,61.23,376.65,18.26,84.34,5
+α = 0.01 (ekstrem rendah),278.17,351.05,370.37,25.43,370.8,18.1,94.48,4
+α = 0.1 (pembanding),277.13,335.23,372.79,33.98,382.69,7.27,95.66,5
